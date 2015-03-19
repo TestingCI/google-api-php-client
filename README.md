@@ -1,5 +1,6 @@
 [![Build Status](https://travis-ci.org/google/google-api-php-client.svg)](https://travis-ci.org/google/google-api-php-client)
 
+[![Build Status](https://apibeta.shippable.com/projects/54192a7576d0c288e441cf03/badge?branchName=master)](https://appbeta.shippable.com/projects/54192a7576d0c288e441cf03/builds/latest)
 # Google APIs Client Library for PHP #
 
 ## Description ##
